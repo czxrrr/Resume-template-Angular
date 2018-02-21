@@ -1,27 +1,21 @@
-# OlapYelp
+## Resume-template-Angluar
+This project was generated with 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+[Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
-## Development server
+[Anuglar material](https://material.angular.io) version 5.2.2
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to run
+Go to the directory Resume-template-Anglar
+then run the following command line in your terminal
 
-## Code scaffolding
+## What is this project for
+Just for Learning Angular.
+Through this project you can figure out how component works and basic knowledge of Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+And if you are interested in this resume template, you can deploy your online resume also.
 
-## Build
+## Preview
+![Preview 1](https://raw.githubusercontent.com/czxrrr/Resume-template-Angular/master/2.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![Preview 2](https://raw.githubusercontent.com/czxrrr/Resume-template-Angular/master/2.png)
