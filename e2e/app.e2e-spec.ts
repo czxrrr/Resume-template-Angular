@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('olap-yelp App', () => {
+describe('Resume-template-Angular App', () => {
   let page: AppPage;
 
   beforeEach(() => {

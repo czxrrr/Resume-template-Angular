@@ -1,0 +1,28 @@
+<mat-toolbar>Skill</mat-toolbar>
+<mat-expansion-panel>
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      Front-end Skills
+    </mat-panel-title>
+    <mat-panel-description>
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+  <mat-chip-list>
+
+    <mat-chip color="primary" selected="true" *ngFor="let skill of skill_list.front_end">{{skill}}</mat-chip>
+  </mat-chip-list>
+
+</mat-expansion-panel>
+<mat-expansion-panel>
+  <mat-expansion-panel-header>
+    <mat-panel-title>
+      Data Engineer Skills
+    </mat-panel-title>
+    <mat-panel-description>
+
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+  <mat-chip-list>
+    <mat-chip color="primary" selected="true" *ngFor="let skill of skill_list.data_engineer">{{skill}}</mat-chip>
+  </mat-chip-list>
+</mat-expansion-panel>
