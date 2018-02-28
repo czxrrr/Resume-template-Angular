@@ -16,6 +16,6 @@ Through this project you can figure out how component works and basic knowledge 
 And if you are interested in this resume template, you can deploy your online resume also.
 
 ## Preview
-![Preview 1](https://raw.githubusercontent.com/czxrrr/Resume-template-Angular/master/2.png)
+![Preview 1](https://raw.githubusercontent.com/czxrrr/Resume-template-Angular/master/1.png)
 
 ![Preview 2](https://raw.githubusercontent.com/czxrrr/Resume-template-Angular/master/2.png)
